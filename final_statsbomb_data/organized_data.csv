@@ -1,0 +1,179 @@
+,location_x,location_y,time,statsbomb_xg,outcome,player,team,bodypart,technique,first_touch,state_of_play,assist,assist2,assist3,assist_state_of_play
+0,109.1,32.5,2023-04-22 00:00:16.926,0.1574537,Wayward,Khadija Monifa Shaw,Manchester City WFC,Right Foot,Half Volley,True,Open Play,Low Pass,,,From Corner
+1,112.5,34.2,2023-04-22 00:02:34.144,0.08949469,Off T,Khadija Monifa Shaw,Manchester City WFC,Left Foot,Volley,True,Open Play,High Pass,,,From Corner
+2,97.3,27.1,2023-04-22 00:04:28.779,0.009850354,Blocked,Laura Coombs,Manchester City WFC,Right Foot,Normal,False,Open Play,Ground Pass,,,From Corner
+3,113.4,28.1,2023-04-22 00:04:45.974,0.11504858,Off T,Khadija Monifa Shaw,Manchester City WFC,Left Foot,Normal,True,Open Play,Ground Pass,,,From Corner
+4,86.2,32.8,2023-04-22 00:05:26.232,0.015117581000000001,Saved,Ingrid Filippa Angeldal,Manchester City WFC,Right Foot,Normal,False,Open Play,Ground Pass,,,From Corner
+5,100.9,35.1,2023-04-22 00:06:14.715,0.061264772,Saved,Laura Coombs,Manchester City WFC,Right Foot,Normal,False,Open Play,Ground Pass,,,From Corner
+6,93.7,23.6,2023-04-22 00:07:12.699,0.013548944,Off T,Lauren Hemp,Manchester City WFC,Left Foot,Normal,False,Open Play,Ground Pass,,,From Corner
+7,104.4,35.7,2023-04-22 00:10:14.211,0.06788527,Blocked,Lauren Hemp,Manchester City WFC,Right Foot,Normal,False,Open Play,,,,From Corner
+8,107.7,53.6,2023-04-22 00:10:18.605,0.031743348000000005,Blocked,Chloe Kelly,Manchester City WFC,Right Foot,Normal,False,Open Play,Ground Pass,,,From Corner
+9,96.6,24.8,2023-04-22 00:10:59.539,0.018035196,Blocked,Stephanie Houghton,Manchester City WFC,Right Foot,Normal,False,Open Play,Ground Pass,,,From Corner
+10,101.9,29.0,2023-04-22 00:12:30.546,0.07351451,Off T,Chloe Kelly,Manchester City WFC,Right Foot,Normal,False,Open Play,Ground Pass,,,From Corner
+11,91.5,31.0,2023-04-22 00:15:14.051,0.020830942,Off T,Laura Coombs,Manchester City WFC,Right Foot,Half Volley,False,Open Play,Ground Pass,,,From Corner
+12,96.1,31.5,2023-04-22 00:17:16.167,0.024402427,Off T,Leila Ouahabi El Ouahabi,Manchester City WFC,Left Foot,Normal,True,Open Play,High Pass,,,From Corner
+13,111.0,35.5,2023-04-22 00:23:03.969,0.18178815,Blocked,Chloe Kelly,Manchester City WFC,Left Foot,Normal,True,Open Play,Ground Pass,,,From Corner
+14,107.6,52.5,2023-04-22 00:27:05.758,0.05348577,Off T,Nikola Karczewska,Tottenham Hotspur Women,Right Foot,Normal,True,Open Play,High Pass,,,From Corner
+15,111.8,49.7,2023-04-22 00:30:44.673,0.14828683,Goal,Celin Bizet Ildhusøy,Tottenham Hotspur Women,Right Foot,Normal,True,Open Play,Low Pass,,,From Corner
+16,112.4,38.8,2023-04-22 00:38:30.753,0.09177977,Saved,Khadija Monifa Shaw,Manchester City WFC,Head,Normal,False,Open Play,High Pass,,,From Corner
+17,113.0,43.7,2023-04-22 00:38:58.629,0.1551822,Off T,Khadija Monifa Shaw,Manchester City WFC,Head,Normal,False,Open Play,High Pass,,,From Corner
+18,106.4,22.5,2023-04-22 00:44:38.148,0.03256424,Saved,Chloe Kelly,Manchester City WFC,Right Foot,Normal,False,Open Play,High Pass,,,From Corner
+19,100.4,39.4,2023-04-22 00:45:40.790,0.09147741,Saved,Khadija Monifa Shaw,Manchester City WFC,Right Foot,Normal,False,Open Play,,,,From Corner
+20,114.7,42.5,2023-04-22 00:46:05.529,0.15095037,Goal,Khadija Monifa Shaw,Manchester City WFC,Head,Normal,False,Open Play,,,,From Corner
+21,108.1,40.1,2023-04-22 00:01:29.798,0.7835000000000001,Goal,Khadija Monifa Shaw,Manchester City WFC,Right Foot,Normal,False,Penalty,,,,From Corner
+22,111.2,51.3,2023-04-22 00:17:37.112,0.18147576,Saved,Rosella Ayane,Tottenham Hotspur Women,Right Foot,Normal,False,Open Play,Ground Pass,,,From Corner
+23,105.6,50.3,2023-04-22 00:17:39.041,0.10080572,Off T,Nikola Karczewska,Tottenham Hotspur Women,Left Foot,Normal,True,Open Play,,,,From Corner
+24,113.2,48.6,2023-04-22 00:23:35.323,0.06137974,Off T,Chloe Kelly,Manchester City WFC,Right Foot,Volley,True,Open Play,High Pass,,,From Corner
+25,94.7,41.7,2023-04-22 00:25:11.832,0.037354674000000004,Blocked,Kit Graham,Tottenham Hotspur Women,Left Foot,Normal,False,Open Play,Ground Pass,,,From Corner
+26,110.0,41.3,2023-04-22 00:36:54.050,0.050487593000000004,Wayward,Khadija Monifa Shaw,Manchester City WFC,Head,Normal,False,Open Play,High Pass,,,From Corner
+27,101.3,59.7,2023-04-22 00:37:01.294,0.009946106000000001,Blocked,Stephanie Houghton,Manchester City WFC,Left Foot,Normal,False,Open Play,Ground Pass,,,From Corner
+28,104.2,32.0,2023-04-22 00:37:12.036,0.09555198000000001,Blocked,Lauren Hemp,Manchester City WFC,Left Foot,Normal,False,Open Play,Ground Pass,,,From Corner
+29,113.4,36.4,2023-04-22 00:37:18.334,0.12038486500000001,Blocked,Khadija Monifa Shaw,Manchester City WFC,Right Foot,Volley,True,Open Play,Low Pass,,,From Corner
+30,115.0,32.8,2023-04-22 00:37:19.429,0.11545208,Goal,Khadija Monifa Shaw,Manchester City WFC,Left Foot,Volley,True,Open Play,,,,From Corner
+31,109.6,41.2,2023-04-22 00:40:38.287,0.16183558,Off T,So-Hyun Cho,Tottenham Hotspur Women,Head,Normal,False,Open Play,High Pass,,,From Corner
+32,101.8,52.0,2023-04-22 00:42:21.618,0.07756127,Saved,Chloe Kelly,Manchester City WFC,Left Foot,Normal,False,Open Play,Ground Pass,,,From Corner
+33,97.9,24.2,2023-04-22 00:45:52.024,0.018678222,Blocked,Chloe Kelly,Manchester City WFC,Right Foot,Normal,False,Open Play,Ground Pass,,,From Corner
+34,101.7,39.1,2023-04-22 00:48:58.143,0.09327247,Off T,Deyna Cristina Castellanos Naujenis,Manchester City WFC,Right Foot,Normal,True,Open Play,Ground Pass,,,From Corner
+35,101.8,55.3,2023-04-22 00:50:14.951,0.042354852000000005,Post,Celin Bizet Ildhusøy,Tottenham Hotspur Women,Right Foot,Normal,False,Open Play,Ground Pass,,,From Corner
+36,108.7,32.8,2023-04-22 00:01:20.484,0.040049467000000005,Blocked,Khadija Monifa Shaw,Manchester City WFC,Left Foot,Half Volley,False,Open Play,Low Pass,,,From Corner
+37,113.2,33.3,2023-04-22 00:04:06.761,0.07431581,Blocked,Khadija Monifa Shaw,Manchester City WFC,Left Foot,Normal,True,Open Play,Ground Pass,,,From Corner
+38,114.8,52.7,2023-04-22 00:04:23.263,0.03001343,Blocked,Khadija Monifa Shaw,Manchester City WFC,Right Foot,Normal,False,Open Play,Ground Pass,,,From Corner
+39,105.2,54.8,2023-04-22 00:05:45.524,0.029559495,Off T,Chloe Kelly,Manchester City WFC,Right Foot,Normal,False,Open Play,Ground Pass,,,From Corner
+40,95.9,44.2,2023-04-22 00:10:01.549,0.044453394,Wayward,Laura Coombs,Manchester City WFC,Right Foot,Half Volley,True,Open Play,Low Pass,,,From Corner
+41,106.8,53.9,2023-04-22 00:25:14.251,0.062680915,Blocked,Laura Madison Blindkilde Brown,Aston Villa,Right Foot,Normal,False,Open Play,,,,From Corner
+42,107.0,40.8,2023-04-22 00:27:47.107,0.48122752,Goal,Deyna Cristina Castellanos Naujenis,Manchester City WFC,Right Foot,Normal,True,Open Play,Ground Pass,,,From Corner
+43,111.2,42.0,2023-04-22 00:30:07.920,0.10489598,Blocked,Kirsty Hanson,Aston Villa,Right Foot,Volley,True,Open Play,,,,From Corner
+44,110.2,39.1,2023-04-22 00:30:09.655,0.15593049,Goal,Kirsty Hanson,Aston Villa,Left Foot,Half Volley,True,Open Play,,,,From Corner
+45,88.3,51.5,2023-04-22 00:32:16.674,0.015027405,Blocked,Deyna Cristina Castellanos Naujenis,Manchester City WFC,Right Foot,Normal,False,Open Play,,,,From Corner
+46,105.6,23.2,2023-04-22 00:39:12.317,0.03669517,Saved,Lauren Hemp,Manchester City WFC,Left Foot,Normal,False,Open Play,Low Pass,,,From Corner
+47,95.1,38.0,2023-04-22 00:05:33.854,0.02616445,Blocked,Rachel Daly,Aston Villa,Right Foot,Normal,True,Open Play,,,,From Corner
+48,105.7,33.4,2023-04-22 00:05:50.148,0.13645422000000001,Post,Kirsty Hanson,Aston Villa,Right Foot,Normal,False,Open Play,,,,From Corner
+49,106.4,42.9,2023-04-22 00:06:28.693,0.048466485000000004,Blocked,Khadija Monifa Shaw,Manchester City WFC,Right Foot,Normal,False,Open Play,Ground Pass,,,From Corner
+50,107.0,48.5,2023-04-22 00:06:43.618,0.06777306,Off T,Deyna Cristina Castellanos Naujenis,Manchester City WFC,Left Foot,Half Volley,False,Open Play,,,,From Corner
+51,114.9,40.1,2023-04-22 00:09:25.881,0.24519458,Off T,Khadija Monifa Shaw,Manchester City WFC,Head,Normal,False,Open Play,High Pass,,,From Corner
+52,106.9,53.5,2023-04-22 00:15:32.003,0.05445558,Off T,Jordan Nobbs,Aston Villa,Right Foot,Normal,True,Open Play,Ground Pass,,,From Corner
+53,97.2,19.9,2023-04-22 00:26:40.078,0.0090188775,Off T,Alisha Lehmann,Aston Villa,Right Foot,Normal,False,Open Play,Ground Pass,,,From Corner
+54,100.8,32.0,2023-04-22 00:27:37.808,0.03956644,Saved,Kenza Dali,Aston Villa,Right Foot,Half Volley,True,Open Play,,,,From Corner
+55,89.4,28.7,2023-04-22 00:27:50.501,0.018708628,Off T,Lucy Staniforth,Aston Villa,Right Foot,Normal,False,Open Play,Ground Pass,,,From Corner
+56,116.5,47.6,2023-04-22 00:30:48.644,0.26039153,Saved,Khadija Monifa Shaw,Manchester City WFC,Right Foot,Normal,False,Open Play,,,,From Corner
+57,102.8,57.9,2023-04-22 00:33:50.087,0.028772445,Off T,Jordan Nobbs,Aston Villa,Right Foot,Half Volley,False,Open Play,High Pass,,,From Corner
+58,102.7,35.4,2023-04-22 00:36:02.981,0.05104231,Blocked,Hayley Emma Raso,Manchester City WFC,Right Foot,Normal,False,Open Play,High Pass,,,From Corner
+59,101.4,42.7,2023-04-22 00:42:24.926,0.051493290000000004,Blocked,Yui Hasegawa,Manchester City WFC,Right Foot,Normal,False,Open Play,Ground Pass,,,From Corner
+60,110.6,35.6,2023-04-22 00:42:29.007,0.09758223,Blocked,Khadija Monifa Shaw,Manchester City WFC,Left Foot,Normal,False,Open Play,Low Pass,,,From Corner
+61,117.0,30.7,2023-04-22 00:46:46.243,0.075787194,Saved,Khadija Monifa Shaw,Manchester City WFC,Left Foot,Half Volley,False,Open Play,,,,From Corner
+62,115.9,32.2,2023-04-22 00:05:39.194,0.07885913600000001,Blocked,Lauren Hemp,Manchester City WFC,Head,Normal,False,Open Play,High Pass,,,From Corner
+63,117.3,30.5,2023-04-22 00:06:01.235,0.04151073,Off T,Lauren Hemp,Manchester City WFC,Head,Normal,False,Open Play,High Pass,,,From Corner
+64,81.7,40.1,2023-04-22 00:08:35.630,0.0069538997,Saved,Taylor Hinds,Liverpool WFC,Right Foot,Normal,False,Open Play,,,,From Corner
+65,108.6,44.1,2023-04-22 00:13:52.863,0.06575786,Blocked,Khadija Monifa Shaw,Manchester City WFC,Right Foot,Half Volley,True,Open Play,,,,From Corner
+66,111.5,42.7,2023-04-22 00:15:10.824,0.073138855,Saved,Khadija Monifa Shaw,Manchester City WFC,Head,Normal,False,Open Play,High Pass,,,From Corner
+67,93.6,23.6,2023-04-22 00:18:10.178,0.012992693000000001,Off T,Missy Bo Kearns,Liverpool WFC,Right Foot,Normal,False,Open Play,,,,From Corner
+68,111.3,34.1,2023-04-22 00:20:50.947,0.35498062,Goal,Khadija Monifa Shaw,Manchester City WFC,Right Foot,Normal,True,Open Play,Ground Pass,,,From Corner
+69,100.1,45.0,2023-04-22 00:23:14.720,0.044266917,Off T,Deyna Cristina Castellanos Naujenis,Manchester City WFC,Right Foot,Volley,True,Open Play,,,,From Corner
+70,89.9,45.6,2023-04-22 00:27:06.128,0.028208286000000003,Off T,Melissa Lawley,Liverpool WFC,Right Foot,Normal,False,Open Play,Ground Pass,,,From Corner
+71,100.9,54.2,2023-04-22 00:28:43.537,0.03303851,Off T,Chloe Kelly,Liverpool WFC,Right Foot,Normal,False,Open Play,,,,From Corner
+72,108.1,41.5,2023-04-22 00:31:56.778,0.27074835,Saved,Missy Bo Kearns,Manchester City WFC,Right Foot,Normal,False,Open Play,,,,From Corner
+73,107.7,45.8,2023-04-22 00:32:32.194,0.3839586,Goal,Katie Stengel,Manchester City WFC,Right Foot,Normal,False,Open Play,,,,From Corner
+74,115.8,39.0,2023-04-22 00:33:49.220,0.6120355,Off T,Khadija Monifa Shaw,Manchester City WFC,Head,Normal,False,Open Play,High Pass,,,From Corner
+75,118.7,33.7,2023-04-22 00:36:07.996,0.10605728,Off T,Niamh Fahey,Liverpool WFC,Head,Normal,False,Open Play,High Pass,,,From Corner
+76,94.4,47.3,2023-04-22 00:38:48.955,0.020545864,Blocked,Deyna Cristina Castellanos Naujenis,Manchester City WFC,Left Foot,Half Volley,True,Open Play,,,,From Corner
+77,111.8,52.5,2023-04-22 00:42:44.287,0.08623454,Blocked,Emma Wilhelmina Koivisto,Liverpool WFC,Right Foot,Normal,True,Open Play,High Pass,,,From Corner
+78,114.0,42.1,2023-04-22 00:43:28.057,0.14477825,Off T,Katie Stengel,Liverpool WFC,Head,Normal,False,Open Play,High Pass,,,From Corner
+79,101.5,23.4,2023-04-22 00:00:53.577,0.039370988,Saved,Lauren Hemp,Manchester City WFC,Left Foot,Normal,False,Open Play,,,,From Corner
+80,110.0,26.8,2023-04-22 00:04:22.504,0.06670216,Blocked,Lauren Hemp,Manchester City WFC,Right Foot,Normal,False,Open Play,High Pass,,,From Corner
+81,113.2,45.6,2023-04-22 00:10:50.653,0.061059684,Wayward,Chloe Kelly,Manchester City WFC,Head,Normal,False,Open Play,High Pass,,,From Corner
+82,117.5,46.4,2023-04-22 00:11:28.887,0.14556095,Off T,Khadija Monifa Shaw,Manchester City WFC,Head,Normal,False,Open Play,High Pass,,,From Corner
+83,107.2,42.7,2023-04-22 00:19:47.159,0.06268983,Blocked,Yui Hasegawa,Manchester City WFC,Right Foot,Normal,True,Open Play,Ground Pass,,,From Corner
+84,112.1,36.8,2023-04-22 00:19:49.643,0.13095875,Blocked,Lauren Hemp,Manchester City WFC,Head,Normal,False,Open Play,,,,From Corner
+85,94.5,51.5,2023-04-22 00:20:23.665,0.02360991,Off T,Deyna Cristina Castellanos Naujenis,Manchester City WFC,Right Foot,Normal,False,Open Play,Ground Pass,,,From Corner
+86,86.0,37.5,2023-04-22 00:24:53.531,0.019093197000000003,Off T,Taylor Hinds,Liverpool WFC,Left Foot,Normal,False,Open Play,,,,From Corner
+87,108.3,43.4,2023-04-22 00:29:12.101,0.24590392,Saved,Hayley Emma Raso,Manchester City WFC,Right Foot,Normal,True,Open Play,Ground Pass,,,From Corner
+88,112.0,44.5,2023-04-22 00:29:14.105,0.41224068,Goal,Hayley Emma Raso,Manchester City WFC,Right Foot,Half Volley,True,Open Play,,,,From Corner
+89,91.7,50.9,2023-04-22 00:33:40.747,0.018767547000000002,Saved,Deyna Cristina Castellanos Naujenis,Manchester City WFC,Right Foot,Half Volley,True,Open Play,Low Pass,,,From Corner
+90,108.3,25.8,2023-04-22 00:33:57.019,0.12550385,Off T,Lauren Hemp,Liverpool WFC,Left Foot,Lob,False,Open Play,,,,From Corner
+91,109.6,28.6,2023-04-22 00:41:33.885,0.040843416,Blocked,Niamh Fahey,Liverpool WFC,Left Foot,Normal,False,Open Play,,,,From Corner
+92,118.0,37.0,2023-04-22 00:43:16.136,0.66013825,Saved,Laura Coombs,Manchester City WFC,Other,Normal,False,Open Play,,,,From Corner
+93,116.0,38.4,2023-04-22 00:47:09.173,0.23151219,Blocked,Rhiannon Roberts,Liverpool WFC,Head,Normal,False,Open Play,High Pass,,,From Corner
+94,107.0,52.0,2023-04-22 00:04:24.367,0.14778447,Off T,Chloe Kelly,Manchester City WFC,Right Foot,Lob,True,Open Play,High Pass,,,From Corner
+95,112.4,50.7,2023-04-22 00:08:03.728,0.1808416,Off T,Chloe Kelly,Manchester City WFC,Right Foot,Normal,False,Open Play,Low Pass,,,From Corner
+96,94.9,53.6,2023-04-22 00:13:18.472,0.024425017,Blocked,Khadija Monifa Shaw,Manchester City WFC,Left Foot,Normal,False,Open Play,Ground Pass,,,From Corner
+97,117.2,33.1,2023-04-22 00:14:46.917,0.09012775,Off T,Khadija Monifa Shaw,Manchester City WFC,Head,Normal,False,Open Play,High Pass,,,From Corner
+98,112.9,40.0,2023-04-22 00:18:21.443,0.43039507,Goal,Julie Blakstad,Manchester City WFC,Head,Diving Header,False,Open Play,High Pass,,,From Corner
+99,80.2,33.3,2023-04-22 00:23:34.579,0.010788521,Off T,Julia Zigiotti-Olme,Manchester City WFC,Right Foot,Normal,False,Open Play,,,,From Corner
+100,107.0,46.4,2023-04-22 00:24:43.927,0.09599867000000001,Blocked,Khadija Monifa Shaw,Manchester City WFC,Left Foot,Normal,True,Open Play,,,,From Corner
+101,99.1,40.3,2023-04-22 00:25:21.525,0.10107688000000001,Goal,Laura Coombs,Manchester City WFC,Right Foot,Normal,True,Open Play,,,,From Corner
+102,100.2,34.4,2023-04-22 00:29:24.410,0.061070110000000004,Blocked,Julie Blakstad,Manchester City WFC,Right Foot,Normal,False,Open Play,High Pass,,,From Corner
+103,115.7,41.3,2023-04-22 00:30:09.943,0.16913483,Saved,Alex Greenwood,Manchester City WFC,Head,Normal,False,Open Play,High Pass,,,From Corner
+104,103.6,27.9,2023-04-22 00:40:17.883,0.06638711,Saved,Khadija Monifa Shaw,Brighton & Hove Albion WFC,Right Foot,Normal,False,Open Play,,,,From Corner
+105,103.4,46.6,2023-04-22 00:46:44.336,0.075309634,Blocked,Deyna Cristina Castellanos Naujenis,Manchester City WFC,Right Foot,Normal,False,Open Play,High Pass,,,From Corner
+106,112.0,32.9,2023-04-22 00:46:52.207,0.10498577,Saved,Laura Coombs,Manchester City WFC,Right Foot,Volley,True,Open Play,High Pass,,,From Corner
+107,100.9,51.7,2023-04-22 00:47:04.586,0.040531754,Blocked,Chloe Kelly,Manchester City WFC,Left Foot,Normal,False,Open Play,Ground Pass,,,From Corner
+108,95.3,43.1,2023-04-22 00:00:11.839,0.06791741400000001,Off T,Deyna Cristina Castellanos Naujenis,Manchester City WFC,Right Foot,Normal,False,Open Play,Ground Pass,,,From Corner
+109,111.7,51.4,2023-04-22 00:01:46.082,0.14520097,Post,Deyna Cristina Castellanos Naujenis,Manchester City WFC,Right Foot,Normal,True,Open Play,Ground Pass,,,From Corner
+110,91.9,38.9,2023-04-22 00:04:20.889,0.04632908,Blocked,Deyna Cristina Castellanos Naujenis,Manchester City WFC,Right Foot,Normal,False,Free Kick,,,,From Corner
+111,108.1,41.3,2023-04-22 00:04:30.772,0.035869066000000005,Blocked,Khadija Monifa Shaw,Manchester City WFC,Head,Normal,False,Open Play,High Pass,,,From Corner
+112,90.6,52.8,2023-04-22 00:05:28.129,0.022102820000000002,Saved,Jorja Fox,Brighton & Hove Albion WFC,Left Foot,Normal,False,Open Play,Ground Pass,,,From Corner
+113,98.6,59.5,2023-04-22 00:08:57.178,0.012377231,Saved,Poppy Pattinson,Brighton & Hove Albion WFC,Left Foot,Normal,False,Open Play,,,,From Corner
+114,106.7,42.2,2023-04-22 00:09:53.859,0.18307768,Off T,Ingrid Filippa Angeldal,Manchester City WFC,Right Foot,Normal,True,Open Play,Ground Pass,,,From Corner
+115,113.3,42.8,2023-04-22 00:12:25.950,0.10986333000000001,Off T,Khadija Monifa Shaw,Manchester City WFC,Head,Normal,False,Open Play,,,,From Corner
+116,101.4,33.9,2023-04-22 00:20:17.055,0.035716396000000004,Blocked,Megan Connolly,Brighton & Hove Albion WFC,Left Foot,Normal,True,Open Play,,,,From Corner
+117,116.9,51.8,2023-04-22 00:20:47.059,0.0261008,Saved,Esme Beth Morgan,Manchester City WFC,Right Foot,Normal,True,Open Play,Ground Pass,,,From Corner
+118,106.4,31.3,2023-04-22 00:21:27.365,0.053814795000000006,Blocked,Ingrid Filippa Angeldal,Manchester City WFC,Right Foot,Volley,True,Open Play,,,,From Corner
+119,111.8,49.1,2023-04-22 00:21:42.306,0.15839791,Saved,Deyna Cristina Castellanos Naujenis,Manchester City WFC,Right Foot,Normal,True,Open Play,Ground Pass,,,From Corner
+120,90.6,29.3,2023-04-22 00:23:41.257,0.020882018000000002,Off T,Julia Zigiotti-Olme,Brighton & Hove Albion WFC,Right Foot,Normal,False,Open Play,,,,From Corner
+121,105.9,32.9,2023-04-22 00:26:06.633,0.07582791,Blocked,Danielle Carter,Brighton & Hove Albion WFC,Right Foot,Normal,False,Open Play,Ground Pass,,,From Corner
+122,91.8,56.9,2023-04-22 00:27:14.584,0.008180827,Off T,Veatriki Sarri,Brighton & Hove Albion WFC,Left Foot,Normal,False,Open Play,Ground Pass,,,From Corner
+123,111.6,39.8,2023-04-22 00:37:18.203,0.12165397400000001,Saved,Khadija Monifa Shaw,Manchester City WFC,Head,Normal,False,Open Play,High Pass,,,From Corner
+124,105.6,52.6,2023-04-22 00:44:04.315,0.0742838,Wayward,Hayley Emma Raso,Manchester City WFC,Right Foot,Half Volley,True,Open Play,High Pass,,,From Corner
+125,113.8,39.8,2023-04-22 00:44:05.309,0.5848210500000001,Off T,Julie Blakstad,Manchester City WFC,Left Foot,Half Volley,True,Open Play,,,,From Corner
+126,111.3,45.9,2023-04-22 00:45:26.549,0.094873436,Blocked,Ingrid Filippa Angeldal,Manchester City WFC,Left Foot,Half Volley,True,Open Play,Low Pass,,,From Corner
+127,99.4,48.3,2023-04-22 00:45:32.421,0.040386066000000005,Blocked,Esme Beth Morgan,Manchester City WFC,Right Foot,Normal,False,Open Play,,,,From Corner
+128,111.8,43.0,2023-04-22 00:47:09.214,0.23023966,Post,Geum-Min Lee,Brighton & Hove Albion WFC,Right Foot,Volley,True,Open Play,High Pass,,,From Corner
+129,117.1,41.1,2023-04-22 00:47:11.128,0.58453405,Goal,Geum-Min Lee,Brighton & Hove Albion WFC,Left Foot,Normal,True,Open Play,,,,From Corner
+130,109.8,46.8,2023-04-22 00:04:30.882,0.043851856,Wayward,Laia Aleixandri López,Manchester City WFC,Head,Normal,False,Open Play,High Pass,,,From Corner
+131,114.0,40.9,2023-04-22 00:05:24.355,0.27321404,Saved,Deyna Cristina Castellanos Naujenis,Manchester City WFC,Right Foot,Volley,True,Open Play,High Pass,,,From Corner
+132,117.7,50.8,2023-04-22 00:05:26.578,0.014517879000000001,Blocked,Chloe Kelly,Manchester City WFC,Right Foot,Half Volley,True,Open Play,,,,From Corner
+133,113.3,38.8,2023-04-22 00:06:05.223,0.18173918,Blocked,Deyna Cristina Castellanos Naujenis,Manchester City WFC,Right Foot,Half Volley,True,Open Play,Ground Pass,,,From Corner
+134,99.0,51.8,2023-04-22 00:13:17.377,0.057698682,Post,Chloe Kelly,Manchester City WFC,Right Foot,Normal,False,Open Play,Ground Pass,,,From Corner
+135,104.4,45.3,2023-04-22 00:18:50.330,0.16519493,Blocked,Chloe Kelly,Manchester City WFC,Left Foot,Normal,True,Open Play,Ground Pass,,,From Corner
+136,119.3,47.3,2023-04-22 00:22:26.598,0.017881703000000002,Off T,Sophie Howard,Leicester City WFC,Head,Normal,False,Open Play,High Pass,,,From Corner
+137,113.5,39.5,2023-04-22 00:23:08.386,0.16286779999999998,Goal,Khadija Monifa Shaw,Manchester City WFC,Head,Normal,False,Open Play,High Pass,,,From Corner
+138,106.7,23.7,2023-04-22 00:35:29.432,0.037897546000000004,Blocked,Lauren Hemp,Manchester City WFC,Right Foot,Normal,False,Open Play,Ground Pass,,,From Corner
+139,116.9,49.2,2023-04-22 00:35:38.854,0.13676266,Off T,Chloe Kelly,Manchester City WFC,Right Foot,Half Volley,False,Open Play,,,,From Corner
+140,107.5,40.2,2023-04-22 00:37:55.485,0.0736984,Blocked,Aileen Whelan,Leicester City WFC,Left Foot,Half Volley,False,Open Play,,,,From Corner
+141,107.2,51.3,2023-04-22 00:39:18.579,0.061599657,Post,Deyna Cristina Castellanos Naujenis,Manchester City WFC,Right Foot,Normal,False,Open Play,,,,From Corner
+142,95.3,29.0,2023-04-22 00:44:25.472,0.031143818000000004,Blocked,Laura Coombs,Manchester City WFC,Right Foot,Normal,False,Open Play,Ground Pass,,,From Corner
+143,103.7,31.8,2023-04-22 00:03:24.870,0.056106947000000004,Off T,Esme Beth Morgan,Manchester City WFC,Right Foot,Normal,True,Open Play,,,,From Corner
+144,107.2,58.3,2023-04-22 00:16:00.201,0.010775562,Off T,Chloe Kelly,Manchester City WFC,Right Foot,Normal,False,Open Play,Low Pass,,,From Corner
+145,111.9,45.6,2023-04-22 00:21:28.665,0.059216756,Off T,Laia Aleixandri López,Manchester City WFC,Head,Normal,False,Open Play,High Pass,,,From Corner
+146,112.0,39.4,2023-04-22 00:23:10.340,0.10834173,Off T,Khadija Monifa Shaw,Manchester City WFC,Head,Normal,False,Open Play,High Pass,,,From Corner
+147,113.6,37.2,2023-04-22 00:26:13.877,0.18556362,Goal,Lauren Hemp,Manchester City WFC,Head,Normal,False,Open Play,High Pass,,,From Corner
+148,113.5,49.6,2023-04-22 00:28:37.522,0.15853661,Saved,Hayley Emma Raso,Manchester City WFC,Right Foot,Normal,False,Open Play,Ground Pass,,,From Corner
+149,108.1,40.1,2023-04-22 00:32:59.390,0.7835000000000001,Saved,Alex Greenwood,Manchester City WFC,Left Foot,Normal,False,Penalty,,,,From Corner
+150,114.7,32.2,2023-04-22 00:33:01.406,0.31971768,Goal,Khadija Monifa Shaw,Manchester City WFC,Left Foot,Normal,True,Open Play,,,,From Corner
+151,101.1,56.2,2023-04-22 00:35:55.085,0.020032637000000002,Blocked,Missy Goodwin,Leicester City WFC,Right Foot,Normal,False,Open Play,Ground Pass,,,From Corner
+152,100.4,49.8,2023-04-22 00:42:05.540,0.04887508,Goal,Yui Hasegawa,Manchester City WFC,Right Foot,Normal,False,Open Play,Ground Pass,,,From Corner
+153,104.8,51.1,2023-04-22 00:44:54.165,0.0796501,Blocked,Khadija Monifa Shaw,Manchester City WFC,Left Foot,Normal,False,Open Play,High Pass,,,From Corner
+154,102.9,46.5,2023-04-22 00:45:41.367,0.21014485,Saved,Hayley Emma Raso,Manchester City WFC,Right Foot,Normal,False,Open Play,Ground Pass,,,From Corner
+155,68.8,40.1,2023-04-22 00:46:33.245,0.0051950137,Off T,Natasha Jane Flint,Leicester City WFC,Right Foot,Lob,False,Open Play,Ground Pass,,,From Corner
+156,91.0,39.6,2023-04-22 00:01:30.386,0.023782702000000003,Off T,Frida Maanum,Manchester City WFC,Right Foot,Normal,False,Open Play,,,,From Corner
+157,116.7,36.9,2023-04-22 00:03:05.915,0.62613934,Goal,Lauren Hemp,Manchester City WFC,Left Foot,Half Volley,True,Open Play,Low Pass,,,From Corner
+158,114.9,29.7,2023-04-22 00:06:23.808,0.09095456,Off T,Caitlin Jade Foord,Arsenal WFC,Left Foot,Volley,True,Open Play,High Pass,,,From Corner
+159,92.7,41.4,2023-04-22 00:09:55.701,0.031449426,Saved,Kim Little,Arsenal WFC,Right Foot,Normal,False,Open Play,,,,From Corner
+160,109.1,33.1,2023-04-22 00:11:11.190,0.054788925,Wayward,Khadija Monifa Shaw,Manchester City WFC,Head,Normal,False,Open Play,High Pass,,,From Corner
+161,100.4,58.1,2023-04-22 00:17:14.225,0.0139399115,Off T,Yui Hasegawa,Manchester City WFC,Right Foot,Half Volley,True,Open Play,,,,From Corner
+162,112.8,32.7,2023-04-22 00:22:03.904,0.14745256,Off T,Laia Aleixandri López,Manchester City WFC,Left Foot,Half Volley,True,Open Play,Low Pass,,,From Corner
+163,107.7,46.5,2023-04-22 00:25:48.871,0.46585697000000004,Saved,Khadija Monifa Shaw,Manchester City WFC,Right Foot,Normal,False,Open Play,,,,From Corner
+164,111.3,55.9,2023-04-22 00:27:04.752,0.029694319,Saved,Chloe Kelly,Arsenal WFC,Right Foot,Normal,False,Open Play,,,,From Corner
+165,97.9,27.5,2023-04-22 00:28:26.942,0.027609276000000002,Saved,Ingrid Filippa Angeldal,Manchester City WFC,Right Foot,Normal,False,Open Play,Ground Pass,,,From Corner
+166,109.5,57.7,2023-04-22 00:35:33.580,0.013277972,Blocked,Chloe Kelly,Manchester City WFC,Right Foot,Half Volley,False,Open Play,High Pass,,,From Corner
+167,111.4,41.7,2023-04-22 00:42:34.224,0.4755491,Goal,Chloe Kelly,Manchester City WFC,Right Foot,Normal,True,Open Play,Ground Pass,,,From Corner
+168,101.8,38.8,2023-04-22 00:49:06.225,0.054932773000000004,Blocked,Khadija Monifa Shaw,Manchester City WFC,Left Foot,Normal,False,Open Play,,,,From Corner
+169,106.3,49.3,2023-04-22 00:04:42.996,0.22304635,Post,Emma Stina Blackstenius,Arsenal WFC,Right Foot,Normal,False,Open Play,High Pass,,,From Corner
+170,104.2,34.8,2023-04-22 00:07:43.635,0.08331805,Blocked,Laura Coombs,Manchester City WFC,Left Foot,Normal,True,Open Play,Ground Pass,,,From Corner
+171,107.3,37.0,2023-04-22 00:13:10.597,0.031398043,Goal,Rafaelle Leone Carvalho Souza,Arsenal WFC,Head,Normal,False,Open Play,High Pass,,,From Corner
+172,95.6,31.0,2023-04-22 00:22:10.182,0.029792977000000002,Post,Yui Hasegawa,Manchester City WFC,Right Foot,Normal,False,Open Play,Ground Pass,,,From Corner
+173,90.1,28.4,2023-04-22 00:22:33.867,0.014165305500000001,Off T,Chloe Kelly,Manchester City WFC,Right Foot,Normal,False,Open Play,Ground Pass,,,From Corner
+174,101.4,37.2,2023-04-22 00:23:53.370,0.13888618,Saved,Lauren Hemp,Manchester City WFC,Left Foot,Normal,False,Open Play,Ground Pass,,,From Corner
+175,106.8,18.6,2023-04-22 00:28:00.467,0.0066961553,Blocked,Frida Maanum,Arsenal WFC,Right Foot,Normal,False,Open Play,,,,From Corner
+176,94.2,33.9,2023-04-22 00:33:44.872,0.027808158000000003,Off T,Chloe Kelly,Manchester City WFC,Right Foot,Normal,False,Open Play,Ground Pass,,,From Corner
+177,92.6,40.8,2023-04-22 00:38:30.031,0.018355556000000002,Off T,Alex Greenwood,Manchester City WFC,Left Foot,Half Volley,False,Open Play,,,,From Corner

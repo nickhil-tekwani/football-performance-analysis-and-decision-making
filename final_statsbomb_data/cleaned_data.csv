@@ -1,0 +1,179 @@
+,statsbomb_xg,goal,time,player,team,shot_distance,inside_18,shot_angle,bodypart,technique,first_touch,assist,state_of_play
+0,0.1574537,False,0,Khadija Monifa Shaw,Manchester City WFC,13.2310241478126,True,55.47,Right Foot,Volley,True,Low Pass,Open Play - Shot
+1,0.08949469,False,2,Khadija Monifa Shaw,Manchester City WFC,9.48103369891701,True,52.28,Left Foot,Volley,True,High Pass,Open Play - Shot
+2,0.009850354,False,4,Laura Coombs,Manchester City WFC,26.109385285755007,False,60.39,Right Foot,Ground,False,Ground Pass,Open Play - Shot
+3,0.11504858,False,4,Khadija Monifa Shaw,Manchester City WFC,13.607718398026904,True,29.01,Left Foot,Ground,True,Ground Pass,Open Play - Shot
+4,0.015117581000000001,False,5,Ingrid Filippa Angeldal,Manchester City WFC,34.55835644240044,False,77.97,Right Foot,Ground,False,Ground Pass,Open Play - Shot
+5,0.061264772,False,6,Laura Coombs,Manchester City WFC,19.718519214180354,False,75.61,Right Foot,Ground,False,Ground Pass,Open Play - Shot
+6,0.013548944,False,7,Lauren Hemp,Manchester City WFC,30.994354324618538,False,58.05,Left Foot,Ground,False,Ground Pass,Open Play - Shot
+7,0.06788527,False,10,Lauren Hemp,Manchester City WFC,16.181779877380603,True,74.59,Right Foot,Ground,False,Unassisted,Open Play - Shot
+8,0.031743348000000005,False,10,Chloe Kelly,Manchester City WFC,18.33712082089225,True,137.87,Right Foot,Ground,False,Ground Pass,Open Play - Shot
+9,0.018035196,False,10,Stephanie Houghton,Manchester City WFC,27.903404810166094,False,56.99,Right Foot,Ground,False,Ground Pass,Open Play - Shot
+10,0.07351451,False,12,Chloe Kelly,Manchester City WFC,21.180415482232632,False,58.71,Right Foot,Ground,False,Ground Pass,Open Play - Shot
+11,0.020830942,False,15,Laura Coombs,Manchester City WFC,29.88728826775691,False,72.47,Right Foot,Volley,False,Ground Pass,Open Play - Shot
+12,0.024402427,False,17,Leila Ouahabi El Ouahabi,Manchester City WFC,25.366513359151277,False,70.42,Left Foot,Ground,True,High Pass,Open Play - Shot
+13,0.18178815,False,23,Chloe Kelly,Manchester City WFC,10.062305898749054,True,63.43,Left Foot,Ground,True,Ground Pass,Open Play - Shot
+14,0.05348577,False,27,Nikola Karczewska,Tottenham Hotspur Women,17.607100840286005,True,135.23,Right Foot,Ground,True,High Pass,Open Play - Shot
+15,0.14828683,True,30,Celin Bizet Ildhusøy,Tottenham Hotspur Women,12.701574705523726,True,139.79,Right Foot,Ground,True,Low Pass,Open Play - Shot
+16,0.09177977,False,38,Khadija Monifa Shaw,Manchester City WFC,7.694153624668533,True,81.03,Head,Ground,False,High Pass,Open Play - Shot
+17,0.1551822,False,38,Khadija Monifa Shaw,Manchester City WFC,7.917701686727027,True,117.86,Head,Ground,False,High Pass,Open Play - Shot
+18,0.03256424,False,44,Chloe Kelly,Manchester City WFC,22.163257883262556,True,37.85,Right Foot,Ground,False,High Pass,Open Play - Shot
+19,0.09147741,False,45,Khadija Monifa Shaw,Manchester City WFC,19.6091815229499,False,88.25,Right Foot,Ground,False,Unassisted,Open Play - Shot
+20,0.15095037,True,46,Khadija Monifa Shaw,Manchester City WFC,5.860034129593442,True,115.25,Head,Ground,False,Unassisted,Open Play - Shot
+21,0.7835000000000001,True,1,Khadija Monifa Shaw,Manchester City WFC,11.900420160649796,True,90.48,Right Foot,Ground,False,Unassisted,Set Piece - Penalty
+22,0.18147576,False,17,Rosella Ayane,Tottenham Hotspur Women,14.322360140703063,True,142.09,Right Foot,Ground,False,Ground Pass,Open Play - Shot
+23,0.10080572,False,17,Nikola Karczewska,Tottenham Hotspur Women,17.704519197086377,True,125.58,Left Foot,Ground,True,Unassisted,Open Play - Shot
+24,0.06137974,False,23,Chloe Kelly,Manchester City WFC,10.963576058932595,True,141.67,Right Foot,Volley,True,High Pass,Open Play - Shot
+25,0.037354674000000004,False,25,Kit Graham,Tottenham Hotspur Women,25.357050301641944,False,93.84,Left Foot,Ground,False,Ground Pass,Open Play - Shot
+26,0.050487593000000004,False,36,Khadija Monifa Shaw,Manchester City WFC,10.084145972763386,True,97.41,Head,Ground,False,High Pass,Open Play - Shot
+27,0.009946106000000001,False,37,Stephanie Houghton,Manchester City WFC,27.162105956644822,False,136.49,Left Foot,Ground,False,Ground Pass,Open Play - Shot
+28,0.09555198000000001,False,37,Lauren Hemp,Manchester City WFC,17.7098842458103,True,63.15,Left Foot,Ground,False,Ground Pass,Open Play - Shot
+29,0.12038486500000001,False,37,Khadija Monifa Shaw,Manchester City WFC,7.517978451684996,True,61.39,Right Foot,Volley,True,Low Pass,Open Play - Shot
+30,0.11545208,True,37,Khadija Monifa Shaw,Manchester City WFC,8.765842800324451,True,34.78,Left Foot,Volley,True,Unassisted,Open Play - Shot
+31,0.16183558,False,40,So-Hyun Cho,Tottenham Hotspur Women,10.469001862641926,True,96.58,Head,Ground,False,High Pass,Open Play - Shot
+32,0.07756127,False,42,Chloe Kelly,Manchester City WFC,21.800000000000004,False,123.4,Left Foot,Ground,False,Ground Pass,Open Play - Shot
+33,0.018678222,False,45,Chloe Kelly,Manchester City WFC,27.167075661542956,False,54.44,Right Foot,Ground,False,Ground Pass,Open Play - Shot
+34,0.09327247,False,48,Deyna Cristina Castellanos Naujenis,Manchester City WFC,18.322117781522962,False,87.18,Right Foot,Ground,True,Ground Pass,Open Play - Shot
+35,0.042354852000000005,False,50,Celin Bizet Ildhusøy,Tottenham Hotspur Women,23.77666923688009,False,130.05,Right Foot,Ground,False,Ground Pass,Open Play - Shot
+36,0.040049467000000005,False,1,Khadija Monifa Shaw,Manchester City WFC,13.398880550254935,True,57.5,Left Foot,Volley,False,Low Pass,Open Play - Shot
+37,0.07431581,False,4,Khadija Monifa Shaw,Manchester City WFC,9.546203433826454,True,45.42,Left Foot,Ground,True,Ground Pass,Open Play - Shot
+38,0.03001343,False,4,Khadija Monifa Shaw,Manchester City WFC,13.723337786413337,True,157.73,Right Foot,Ground,False,Ground Pass,Open Play - Shot
+39,0.029559495,False,5,Chloe Kelly,Manchester City WFC,20.9303607231218,True,135.0,Right Foot,Ground,False,Ground Pass,Open Play - Shot
+40,0.044453394,False,10,Laura Coombs,Manchester City WFC,24.46323772520718,False,99.89,Right Foot,Volley,True,Low Pass,Open Play - Shot
+41,0.062680915,False,25,Laura Madison Blindkilde Brown,Aston Villa,19.168985366993216,True,136.48,Right Foot,Ground,False,Unassisted,Open Play - Shot
+42,0.48122752,True,27,Deyna Cristina Castellanos Naujenis,Manchester City WFC,13.02459212413195,True,93.52,Right Foot,Ground,True,Ground Pass,Open Play - Shot
+43,0.10489598,False,30,Kirsty Hanson,Aston Villa,9.02441133814278,True,102.8,Right Foot,Volley,True,Unassisted,Open Play - Shot
+44,0.15593049,True,30,Kirsty Hanson,Aston Villa,9.84123975929862,True,84.75,Left Foot,Volley,True,Unassisted,Open Play - Shot
+45,0.015027405,False,32,Deyna Cristina Castellanos Naujenis,Manchester City WFC,33.721506490665575,False,109.94,Right Foot,Ground,False,Unassisted,Open Play - Shot
+46,0.03669517,False,39,Lauren Hemp,Manchester City WFC,22.126906697502932,True,40.6,Left Foot,Ground,False,Low Pass,Open Play - Shot
+47,0.02616445,False,5,Rachel Daly,Aston Villa,24.98019215298394,False,85.41,Right Foot,Ground,True,Unassisted,Open Play - Shot
+48,0.13645422000000001,False,5,Kirsty Hanson,Aston Villa,15.749603169603986,True,65.22,Right Foot,Ground,False,Unassisted,Open Play - Shot
+49,0.048466485000000004,False,6,Khadija Monifa Shaw,Manchester City WFC,13.905754204644918,True,102.04,Right Foot,Ground,False,Ground Pass,Open Play - Shot
+50,0.06777306,False,6,Deyna Cristina Castellanos Naujenis,Manchester City WFC,15.532224567009067,True,123.18,Left Foot,Volley,False,Unassisted,Open Play - Shot
+51,0.24519458,False,9,Khadija Monifa Shaw,Manchester City WFC,5.100980297942734,True,91.12,Head,Ground,False,High Pass,Open Play - Shot
+52,0.05445558,False,15,Jordan Nobbs,Aston Villa,18.811166896287954,True,135.86,Right Foot,Ground,True,Ground Pass,Open Play - Shot
+53,0.0090188775,False,26,Alisha Lehmann,Aston Villa,30.394900888142406,False,48.6,Right Foot,Ground,False,Ground Pass,Open Play - Shot
+54,0.03956644,False,27,Kenza Dali,Aston Villa,20.8,False,67.38,Right Foot,Volley,True,Unassisted,Open Play - Shot
+55,0.018708628,False,27,Lucy Staniforth,Aston Villa,32.6197792757707,False,69.73,Right Foot,Ground,False,Ground Pass,Open Play - Shot
+56,0.26039153,False,30,Khadija Monifa Shaw,Manchester City WFC,8.36719785830358,True,155.27,Right Foot,Ground,False,Unassisted,Open Play - Shot
+57,0.028772445,False,33,Jordan Nobbs,Aston Villa,24.82438317461282,True,136.14,Right Foot,Volley,False,High Pass,Open Play - Shot
+58,0.05104231,False,36,Hayley Emma Raso,Manchester City WFC,17.901117283566407,True,75.11,Right Foot,Ground,False,High Pass,Open Play - Shot
+59,0.051493290000000004,False,42,Yui Hasegawa,Manchester City WFC,18.794946129212498,False,98.26,Right Foot,Ground,False,Ground Pass,Open Play - Shot
+60,0.09758223,False,42,Khadija Monifa Shaw,Manchester City WFC,10.378824596263302,True,64.92,Left Foot,Ground,False,Low Pass,Open Play - Shot
+61,0.075787194,False,46,Khadija Monifa Shaw,Manchester City WFC,9.7718984849414,True,17.88,Left Foot,Volley,False,Unassisted,Open Play - Shot
+62,0.07885913600000001,False,5,Lauren Hemp,Manchester City WFC,8.811923740024076,True,27.73,Head,Ground,False,High Pass,Open Play - Shot
+63,0.04151073,False,6,Lauren Hemp,Manchester City WFC,9.876234100101112,True,15.87,Head,Ground,False,High Pass,Open Play - Shot
+64,0.0069538997,False,8,Taylor Hinds,Liverpool WFC,38.30013054808038,False,90.15,Right Foot,Ground,False,Unassisted,Open Play - Shot
+65,0.06575786,False,13,Khadija Monifa Shaw,Manchester City WFC,12.114866899805385,True,109.78,Right Foot,Volley,True,Unassisted,Open Play - Shot
+66,0.073138855,False,15,Khadija Monifa Shaw,Manchester City WFC,8.91852005660132,True,107.62,Head,Ground,False,High Pass,Open Play - Shot
+67,0.012992693000000001,False,18,Missy Bo Kearns,Liverpool WFC,31.079253530289307,False,58.15,Right Foot,Ground,False,Unassisted,Open Play - Shot
+68,0.35498062,True,20,Khadija Monifa Shaw,Manchester City WFC,10.511898020814321,True,55.86,Right Foot,Ground,True,Ground Pass,Open Play - Shot
+69,0.044266917,False,23,Deyna Cristina Castellanos Naujenis,Manchester City WFC,20.518528212325567,False,104.1,Right Foot,Volley,True,Unassisted,Open Play - Shot
+70,0.028208286000000003,False,27,Melissa Lawley,Liverpool WFC,30.616498820080647,False,100.54,Right Foot,Ground,False,Ground Pass,Open Play - Shot
+71,0.03303851,False,28,Chloe Kelly,Liverpool WFC,23.800210083106407,False,126.63,Right Foot,Ground,False,Unassisted,Open Play - Shot
+72,0.27074835,False,31,Missy Bo Kearns,Manchester City WFC,11.994165248152958,True,97.18,Right Foot,Ground,False,Unassisted,Open Play - Shot
+73,0.3839586,True,32,Katie Stengel,Manchester City WFC,13.598897014096396,True,115.25,Right Foot,Ground,False,Unassisted,Open Play - Shot
+74,0.6120355,False,33,Khadija Monifa Shaw,Manchester City WFC,4.317406628984584,True,76.61,Head,Ground,False,High Pass,Open Play - Shot
+75,0.10605728,False,36,Niamh Fahey,Liverpool WFC,6.432728814430153,True,11.66,Head,Ground,False,High Pass,Open Play - Shot
+76,0.020545864,False,38,Deyna Cristina Castellanos Naujenis,Manchester City WFC,26.62048083712989,False,105.92,Left Foot,Volley,True,Unassisted,Open Play - Shot
+77,0.08623454,False,42,Emma Wilhelmina Koivisto,Liverpool WFC,14.949581933953874,True,146.74,Right Foot,Ground,True,High Pass,Open Play - Shot
+78,0.14477825,False,43,Katie Stengel,Liverpool WFC,6.3568860301251275,True,109.29,Head,Ground,False,High Pass,Open Play - Shot
+79,0.039370988,False,0,Lauren Hemp,Manchester City WFC,24.855784035109416,False,48.1,Left Foot,Ground,False,Unassisted,Open Play - Shot
+80,0.06670216,False,4,Lauren Hemp,Manchester City WFC,16.560193235587562,True,37.15,Right Foot,Ground,False,High Pass,Open Play - Shot
+81,0.061059684,False,10,Chloe Kelly,Manchester City WFC,8.809086218218095,True,129.47,Head,Ground,False,High Pass,Open Play - Shot
+82,0.14556095,False,11,Khadija Monifa Shaw,Manchester City WFC,6.870953354520752,True,158.66,Head,Ground,False,High Pass,Open Play - Shot
+83,0.06268983,False,19,Yui Hasegawa,Manchester City WFC,13.081666560496027,True,101.91,Right Foot,Ground,True,Ground Pass,Open Play - Shot
+84,0.13095875,False,19,Lauren Hemp,Manchester City WFC,8.52349693494402,True,67.95,Head,Ground,False,Unassisted,Open Play - Shot
+85,0.02360991,False,20,Deyna Cristina Castellanos Naujenis,Manchester City WFC,27.97320146139873,False,114.27,Right Foot,Ground,False,Ground Pass,Open Play - Shot
+86,0.019093197000000003,False,24,Taylor Hinds,Liverpool WFC,34.09178786746157,False,85.79,Left Foot,Ground,False,Unassisted,Open Play - Shot
+87,0.24590392,False,29,Hayley Emma Raso,Manchester City WFC,12.184005909387933,True,106.2,Right Foot,Ground,True,Ground Pass,Open Play - Shot
+88,0.41224068,True,29,Hayley Emma Raso,Manchester City WFC,9.17877987534291,True,119.36,Right Foot,Volley,True,Unassisted,Open Play - Shot
+89,0.018767547000000002,False,33,Deyna Cristina Castellanos Naujenis,Manchester City WFC,30.326556019436165,False,111.06,Right Foot,Volley,True,Low Pass,Open Play - Shot
+90,0.12550385,False,33,Lauren Hemp,Liverpool WFC,18.399184764548675,True,39.49,Left Foot,Ground,False,Unassisted,Open Play - Shot
+91,0.040843416,False,41,Niamh Fahey,Liverpool WFC,15.43113735276827,True,42.37,Left Foot,Ground,False,Unassisted,Open Play - Shot
+92,0.66013825,False,43,Laura Coombs,Manchester City WFC,3.605551275463989,True,33.69,Other,Ground,False,Unassisted,Open Play - Shot
+93,0.23151219,False,47,Rhiannon Roberts,Liverpool WFC,4.308131845707604,True,68.2,Head,Ground,False,High Pass,Open Play - Shot
+94,0.14778447,False,4,Chloe Kelly,Manchester City WFC,17.69180601295413,True,132.71,Right Foot,Ground,True,High Pass,Open Play - Shot
+95,0.1808416,False,8,Chloe Kelly,Manchester City WFC,13.124404748406686,True,144.61,Right Foot,Ground,False,Low Pass,Open Play - Shot
+96,0.024425017,False,13,Khadija Monifa Shaw,Manchester City WFC,28.547679415322005,False,118.45,Left Foot,Ground,False,Ground Pass,Open Play - Shot
+97,0.09012775,False,14,Khadija Monifa Shaw,Manchester City WFC,7.446475676452583,True,22.09,Head,Ground,False,High Pass,Open Play - Shot
+98,0.43039507,True,18,Julie Blakstad,Manchester City WFC,7.099999999999994,True,90.0,Head,Volley,False,High Pass,Open Play - Shot
+99,0.010788521,False,23,Julia Zigiotti-Olme,Manchester City WFC,40.36000495540108,False,80.44,Right Foot,Ground,False,Unassisted,Open Play - Shot
+100,0.09599867000000001,False,24,Khadija Monifa Shaw,Manchester City WFC,14.489996549343964,True,116.21,Left Foot,Ground,True,Unassisted,Open Play - Shot
+101,0.10107688000000001,True,25,Laura Coombs,Manchester City WFC,20.902152999152985,False,90.82,Right Foot,Ground,True,Unassisted,Open Play - Shot
+102,0.061070110000000004,False,29,Julie Blakstad,Manchester City WFC,20.576685836159328,False,74.21,Right Foot,Ground,False,High Pass,Open Play - Shot
+103,0.16913483,False,30,Alex Greenwood,Manchester City WFC,4.492215489043237,True,106.82,Head,Ground,False,High Pass,Open Play - Shot
+104,0.06638711,False,40,Khadija Monifa Shaw,Brighton & Hove Albion WFC,20.380628057054576,True,53.58,Right Foot,Ground,False,Unassisted,Open Play - Shot
+105,0.075309634,False,46,Deyna Cristina Castellanos Naujenis,Manchester City WFC,17.86393013869008,True,111.68,Right Foot,Ground,False,High Pass,Open Play - Shot
+106,0.10498577,False,46,Laura Coombs,Manchester City WFC,10.696261028976435,True,48.41,Right Foot,Volley,True,High Pass,Open Play - Shot
+107,0.040531754,False,47,Chloe Kelly,Manchester City WFC,22.398660674245676,False,121.49,Left Foot,Ground,False,Ground Pass,Open Play - Shot
+108,0.06791741400000001,False,0,Deyna Cristina Castellanos Naujenis,Manchester City WFC,24.893774322107127,False,97.15,Right Foot,Ground,False,Ground Pass,Open Play - Shot
+109,0.14520097,False,1,Deyna Cristina Castellanos Naujenis,Manchester City WFC,14.101418368376988,True,143.94,Right Foot,Ground,True,Ground Pass,Open Play - Shot
+110,0.04632908,False,4,Deyna Cristina Castellanos Naujenis,Manchester City WFC,28.1215220071745,False,87.76,Right Foot,Ground,False,Unassisted,Set Piece - Direct Free Kick
+111,0.035869066000000005,False,4,Khadija Monifa Shaw,Manchester City WFC,11.97079780131634,True,96.23,Head,Ground,False,High Pass,Open Play - Shot
+112,0.022102820000000002,False,5,Jorja Fox,Brighton & Hove Albion WFC,32.065557846387144,False,113.53,Left Foot,Ground,False,Ground Pass,Open Play - Shot
+113,0.012377231,False,8,Poppy Pattinson,Brighton & Hove Albion WFC,28.951856589863116,False,132.34,Left Foot,Ground,False,Unassisted,Open Play - Shot
+114,0.18307768,False,9,Ingrid Filippa Angeldal,Manchester City WFC,13.480726983364063,True,99.39,Right Foot,Ground,True,Ground Pass,Open Play - Shot
+115,0.10986333000000001,False,12,Khadija Monifa Shaw,Manchester City WFC,7.2615425358528345,True,112.68,Head,Ground,False,Unassisted,Open Play - Shot
+116,0.035716396000000004,False,20,Megan Connolly,Brighton & Hove Albion WFC,19.574728606036913,False,71.84,Left Foot,Ground,True,Unassisted,Open Play - Shot
+117,0.0261008,False,20,Esme Beth Morgan,Manchester City WFC,12.200409829181964,True,165.28,Right Foot,Ground,True,Ground Pass,Open Play - Shot
+118,0.053814795000000006,False,21,Ingrid Filippa Angeldal,Manchester City WFC,16.144658559412143,True,57.39,Right Foot,Volley,True,Unassisted,Open Play - Shot
+119,0.15839791,False,21,Deyna Cristina Castellanos Naujenis,Manchester City WFC,12.249489785293102,True,137.98,Right Foot,Ground,True,Ground Pass,Open Play - Shot
+120,0.020882018000000002,False,23,Julia Zigiotti-Olme,Brighton & Hove Albion WFC,31.2865785921056,False,70.0,Right Foot,Ground,False,Unassisted,Open Play - Shot
+121,0.07582791,False,26,Danielle Carter,Brighton & Hove Albion WFC,15.786703265723336,True,63.27,Right Foot,Ground,False,Ground Pass,Open Play - Shot
+122,0.008180827,False,27,Veatriki Sarri,Brighton & Hove Albion WFC,32.87628324491685,False,120.93,Left Foot,Ground,False,Ground Pass,Open Play - Shot
+123,0.12165397400000001,False,37,Khadija Monifa Shaw,Manchester City WFC,8.402380615040009,True,88.64,Head,Ground,False,High Pass,Open Play - Shot
+124,0.0742838,False,44,Hayley Emma Raso,Manchester City WFC,19.134262462922376,True,131.19,Right Foot,Volley,True,High Pass,Open Play - Shot
+125,0.5848210500000001,False,44,Julie Blakstad,Manchester City WFC,6.203224967708332,True,88.15,Left Foot,Volley,True,Unassisted,Open Play - Shot
+126,0.094873436,False,45,Ingrid Filippa Angeldal,Manchester City WFC,10.511898020814321,True,124.14,Left Foot,Volley,True,Low Pass,Open Play - Shot
+127,0.040386066000000005,False,45,Esme Beth Morgan,Manchester City WFC,22.209232314512803,False,111.95,Right Foot,Ground,False,Unassisted,Open Play - Shot
+128,0.23023966,False,47,Geum-Min Lee,Brighton & Hove Albion WFC,8.731551981177232,True,110.1,Right Foot,Volley,True,High Pass,Open Play - Shot
+129,0.58453405,True,47,Geum-Min Lee,Brighton & Hove Albion WFC,3.1016124838541703,True,110.77,Left Foot,Ground,True,Unassisted,Open Play - Shot
+130,0.043851856,False,4,Laia Aleixandri López,Manchester City WFC,12.258874336577565,True,123.69,Head,Ground,False,High Pass,Open Play - Shot
+131,0.27321404,False,5,Deyna Cristina Castellanos Naujenis,Manchester City WFC,6.067124524847005,True,98.53,Right Foot,Volley,True,High Pass,Open Play - Shot
+132,0.014517879000000001,False,5,Chloe Kelly,Manchester City WFC,11.042191811411353,True,167.98,Right Foot,Volley,True,Unassisted,Open Play - Shot
+133,0.18173918,False,6,Deyna Cristina Castellanos Naujenis,Manchester City WFC,6.806614430096658,True,79.85,Right Foot,Volley,True,Ground Pass,Open Play - Shot
+134,0.057698682,False,13,Chloe Kelly,Manchester City WFC,24.08817137102773,False,119.33,Right Foot,Ground,False,Ground Pass,Open Play - Shot
+135,0.16519493,False,18,Chloe Kelly,Manchester City WFC,16.475739740600414,True,108.76,Left Foot,Ground,True,Ground Pass,Open Play - Shot
+136,0.017881703000000002,False,22,Sophie Howard,Leicester City WFC,7.333484846919639,True,174.52,Head,Ground,False,High Pass,Open Play - Shot
+137,0.16286779999999998,True,23,Khadija Monifa Shaw,Manchester City WFC,6.519202405202649,True,85.6,Head,Ground,False,High Pass,Open Play - Shot
+138,0.037897546000000004,False,35,Lauren Hemp,Manchester City WFC,21.03758541277967,True,39.21,Right Foot,Ground,False,Ground Pass,Open Play - Shot
+139,0.13676266,False,35,Chloe Kelly,Manchester City WFC,9.708243919473801,True,161.38,Right Foot,Volley,False,Unassisted,Open Play - Shot
+140,0.0736984,False,37,Aileen Whelan,Leicester City WFC,12.501599897613104,True,90.92,Left Foot,Volley,False,Unassisted,Open Play - Shot
+141,0.061599657,False,39,Deyna Cristina Castellanos Naujenis,Manchester City WFC,17.07424961747953,True,131.44,Right Foot,Ground,False,Unassisted,Open Play - Shot
+142,0.031143818000000004,False,44,Laura Coombs,Manchester City WFC,27.038676003088614,False,65.99,Right Foot,Ground,False,Ground Pass,Open Play - Shot
+143,0.056106947000000004,False,3,Esme Beth Morgan,Manchester City WFC,18.246369501903658,True,63.29,Right Foot,Ground,True,Unassisted,Open Play - Shot
+144,0.010775562,False,16,Chloe Kelly,Manchester City WFC,22.3322636559754,False,145.03,Right Foot,Ground,False,Low Pass,Open Play - Shot
+145,0.059216756,False,21,Laia Aleixandri López,Manchester City WFC,9.847334664770967,True,124.66,Head,Ground,False,High Pass,Open Play - Shot
+146,0.10834173,False,23,Khadija Monifa Shaw,Manchester City WFC,8.022468448052631,True,85.71,Head,Ground,False,High Pass,Open Play - Shot
+147,0.18556362,True,26,Lauren Hemp,Manchester City WFC,6.985699678629196,True,66.37,Head,Ground,False,High Pass,Open Play - Shot
+148,0.15853661,False,28,Hayley Emma Raso,Manchester City WFC,11.593532679903914,True,145.9,Right Foot,Ground,False,Ground Pass,Open Play - Shot
+149,0.7835000000000001,False,32,Alex Greenwood,Manchester City WFC,11.900420160649796,True,90.48,Left Foot,Ground,False,Unassisted,Set Piece - Penalty
+150,0.31971768,True,33,Khadija Monifa Shaw,Manchester City WFC,9.430270409696634,True,34.2,Left Foot,Ground,True,Unassisted,Open Play - Shot
+151,0.020032637000000002,False,35,Missy Goodwin,Leicester City WFC,24.892770034690802,False,130.6,Right Foot,Ground,False,Ground Pass,Open Play - Shot
+152,0.04887508,True,42,Yui Hasegawa,Manchester City WFC,21.913466179497934,False,116.57,Right Foot,Ground,False,Ground Pass,Open Play - Shot
+153,0.0796501,False,44,Khadija Monifa Shaw,Manchester City WFC,18.821530224718714,True,126.14,Left Foot,Ground,False,High Pass,Open Play - Shot
+154,0.21014485,False,45,Hayley Emma Raso,Manchester City WFC,18.293714767646286,True,110.81,Right Foot,Ground,False,Ground Pass,Open Play - Shot
+155,0.0051950137,False,46,Natasha Jane Flint,Leicester City WFC,51.20009765615688,False,90.11,Right Foot,Ground,False,Ground Pass,Open Play - Shot
+156,0.023782702000000003,False,1,Frida Maanum,Manchester City WFC,29.00275848949544,False,89.21,Right Foot,Ground,False,Unassisted,Open Play - Shot
+157,0.62613934,True,3,Lauren Hemp,Manchester City WFC,4.527692569068707,True,46.79,Left Foot,Volley,True,Low Pass,Open Play - Shot
+158,0.09095456,False,6,Caitlin Jade Foord,Arsenal WFC,11.493476410555683,True,26.34,Left Foot,Volley,True,High Pass,Open Play - Shot
+159,0.031449426,False,9,Kim Little,Arsenal WFC,27.33587386567329,False,92.94,Right Foot,Ground,False,Unassisted,Open Play - Shot
+160,0.054788925,False,11,Khadija Monifa Shaw,Manchester City WFC,12.900387591076482,True,57.67,Head,Ground,False,High Pass,Open Play - Shot
+161,0.0139399115,False,17,Yui Hasegawa,Manchester City WFC,26.67901797293146,False,132.72,Right Foot,Volley,True,Unassisted,Open Play - Shot
+162,0.14745256,False,22,Laia Aleixandri López,Manchester City WFC,10.25329215423027,True,44.6,Left Foot,Volley,True,Low Pass,Open Play - Shot
+163,0.46585697000000004,False,25,Khadija Monifa Shaw,Manchester City WFC,13.911865439257236,True,117.85,Right Foot,Ground,False,Unassisted,Open Play - Shot
+164,0.029694319,False,27,Chloe Kelly,Arsenal WFC,18.12456896039186,True,151.31,Right Foot,Ground,False,Unassisted,Open Play - Shot
+165,0.027609276000000002,False,28,Ingrid Filippa Angeldal,Manchester City WFC,25.390155572583634,False,60.51,Right Foot,Ground,False,Ground Pass,Open Play - Shot
+166,0.013277972,False,35,Chloe Kelly,Manchester City WFC,20.580087463370997,True,149.32,Right Foot,Volley,False,High Pass,Open Play - Shot
+167,0.4755491,True,42,Chloe Kelly,Manchester City WFC,8.766413177577242,True,101.18,Right Foot,Ground,True,Ground Pass,Open Play - Shot
+168,0.054932773000000004,False,49,Khadija Monifa Shaw,Manchester City WFC,18.239517537478893,False,86.23,Left Foot,Ground,False,Unassisted,Open Play - Shot
+169,0.22304635,False,4,Emma Stina Blackstenius,Arsenal WFC,16.55838156342582,True,124.17,Right Foot,Ground,False,High Pass,Open Play - Shot
+170,0.08331805,False,7,Laura Coombs,Manchester City WFC,16.633700730745396,True,71.78,Left Foot,Ground,True,Ground Pass,Open Play - Shot
+171,0.031398043,True,13,Rafaelle Leone Carvalho Souza,Arsenal WFC,13.049521064008443,True,76.71,Head,Ground,False,High Pass,Open Play - Shot
+172,0.029792977000000002,False,22,Yui Hasegawa,Manchester City WFC,26.006922155457,False,69.75,Right Foot,Ground,False,Ground Pass,Open Play - Shot
+173,0.014165305500000001,False,22,Chloe Kelly,Manchester City WFC,32.07132675771304,False,68.8,Right Foot,Ground,False,Ground Pass,Open Play - Shot
+174,0.13888618,False,23,Lauren Hemp,Manchester City WFC,18.809572031282364,False,81.44,Left Foot,Ground,False,Ground Pass,Open Play - Shot
+175,0.0066961553,False,28,Frida Maanum,Arsenal WFC,25.14358765172544,False,31.67,Right Foot,Ground,False,Unassisted,Open Play - Shot
+176,0.027808158000000003,False,33,Chloe Kelly,Manchester City WFC,26.511318337645903,False,76.7,Right Foot,Ground,False,Ground Pass,Open Play - Shot
+177,0.018355556000000002,False,38,Alex Greenwood,Manchester City WFC,27.411676344215074,False,91.67,Left Foot,Volley,False,Unassisted,Open Play - Shot
